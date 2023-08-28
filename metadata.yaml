@@ -1,0 +1,29 @@
+_repo: Brave-Bessie-Westland-b-A-story-of-Quaker-persecution_71477
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, Emma
+    aliases:
+    - Dixon, Emma
+    - Boultwood, Emma
+    birthdate: 1838
+    deathdate: 1909
+    gutenberg_agent_id: '8498'
+    url: http://www.gutenberg.org/2009/agents/8498
+    wikipedia: https://en.wikipedia.org/wiki/Emma_Leslie
+description: ''
+gutenberg_issued: '2023-08-24'
+identifiers:
+  gutenberg: '71477'
+language: en
+pgterms:marc905: 20230821135442leslie
+pgterms:marc906: '1893'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bReligious Tract Society, $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Brave Bessie Westland : $b A story of Quaker persecution'
+url: http://www.gutenberg.org/ebooks/71477
